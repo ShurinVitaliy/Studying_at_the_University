@@ -1,0 +1,9 @@
+D:\учёба\2 курс\языки программирования\labR\laba2wf\laba2wf\bin\Debug\laba2wf.exe.config
+D:\учёба\2 курс\языки программирования\labR\laba2wf\laba2wf\bin\Debug\laba2wf.exe
+D:\учёба\2 курс\языки программирования\labR\laba2wf\laba2wf\bin\Debug\laba2wf.pdb
+D:\учёба\2 курс\языки программирования\labR\laba2wf\laba2wf\obj\Debug\laba2wf.csprojResolveAssemblyReference.cache
+D:\учёба\2 курс\языки программирования\labR\laba2wf\laba2wf\obj\Debug\laba2wf.Properties.Resources.resources
+D:\учёба\2 курс\языки программирования\labR\laba2wf\laba2wf\obj\Debug\laba2wf.csproj.GenerateResource.Cache
+D:\учёба\2 курс\языки программирования\labR\laba2wf\laba2wf\obj\Debug\laba2wf.exe
+D:\учёба\2 курс\языки программирования\labR\laba2wf\laba2wf\obj\Debug\laba2wf.pdb
+D:\учёба\2 курс\языки программирования\labR\laba2wf\laba2wf\obj\Debug\laba2wf.MainForm.resources
